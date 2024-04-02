@@ -99,7 +99,7 @@ const Products = () => {
                       {product.title.substring(0, 12)}...
                     </h5>
                     <p class="card-text">
-                      {product.description.substring(0, 90)}...
+                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae voluptatibus vitae unde, optio nihil numquam suscipit explicabo, laborum, rem minus quo aut ad molestias dolores porro dicta mollitia ex nam!
                     </p>
                   </div>
                   <ul class="list-group list-group-flush">

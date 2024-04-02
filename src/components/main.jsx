@@ -13,11 +13,10 @@ const Home = () => {
           />
           <div className="card-img-overlay d-flex align-items-center">
             <div className="container">
-              <h5 className="card-title display-3">New Season Arrivals</h5>
+              <h5 className="card-title display-3">Ecomm Demo</h5>
               <p className="card-text lead">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime alias perferendis repellat labore suscipit temporibus? Obcaecati doloremque, facere ab dolor ratione laudantium sapiente porro quos, praesentium repellendus voluptatibus autem assumenda.
+                Laboriosam corrupti numquam nobis similique eaque accusamus enim eum asperiores reprehenderit? Suscipit fugit nam voluptas dignissimos nemo corporis dolores earum, mollitia assumenda sapiente modi, hic necessitatibus. Quas nulla consequatur laboriosam!
               </p>
             </div>
           </div>
